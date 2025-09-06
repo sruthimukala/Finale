@@ -1,0 +1,1 @@
+A Resume HTML code is a structured webpage written using HTML (HyperText Markup Language) and often styled with CSS (Cascading Style Sheets) to present a person's resume or CV on the web. It mimics the layout and content of a traditional resume, but in a format that can be viewed in web browsers.
